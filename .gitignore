@@ -5,6 +5,12 @@
 /.pnp
 .pnp.js
 
+#in progress
+/src/components
+
+#key
+/.env
+
 # testing
 /coverage
 
